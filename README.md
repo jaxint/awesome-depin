@@ -167,6 +167,7 @@ Welcome to our [DePIN (Decentralized Physical Infrastructure Networks)](https://
 
 - [IoTeX](https://iotex.io)
 - [Eclipse](https://www.eclipse.builders)
+- [RustChain](https://github.com/Scottcjn/Rustchain) - DePIN blockchain with vintage hardware Proof-of-Antiquity mining and MCP server integration
 
 ## Analytics
 
